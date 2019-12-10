@@ -10,6 +10,7 @@
 
     <modules>
         <module>alibaba-nacos-discovery-server</module>                 <!-- 使用Nacos实现服务注册与发现：服务提供方-->
+        <module>alibaba-nacos-discovery-client-common</module>
     </modules>
 
 </project>
