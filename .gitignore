@@ -6,6 +6,8 @@ target/
 !**/src/main/**
 !**/src/test/**
 /out
+mvnw
+*.cmd
 
 ### STS ###
 .apt_generated
